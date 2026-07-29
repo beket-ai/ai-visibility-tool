@@ -196,10 +196,10 @@ Daily. Models update their indexes, run live searches, and ship new versions all
 
 ## Further reading
 
-- [AI Search Optimization: the full guide](https://beket.ai/guides/ai-search-optimization/)
+- [AI Search Optimization: the full guide](https://beket.ai/blog/ai-search-optimization/)
 - [Static vs. Live AI Search](https://beket.ai/blog/static-vs-live-ai-search-what-it-means/)
 - [AI Reads Today's Web, Not Last Year's](https://beket.ai/blog/ai-reads-todays-web/)
-- [Original post: How to Choose AI Search Optimization Software in 2026](https://beket.ai/blog/how-to-choose-ai-search-optimization-software-2026/)
+- [Original post: How to Choose AI Search Optimization Software in 2026](https://beket.ai/guides/how-to-choose-ai-search-optimization-software-2026/)
 
 ---
 
